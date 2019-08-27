@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Tue, 27 Aug 2019 15:38:47 at https://kalvin.netlify.com/index-particles3.html
+(winhttrack https://kalvin.netlify.com/index-particles3.html -O "/home/marvelous/websites/portfolio" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:40:02	Error: 	"Not Found" (404) at link https://kalvin.netlify.com/css/owl.video.play.png (from https://kalvin.netlify.com/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 22 seconds : 78 links scanned, 76 files written (5178914 bytes overall) [3905062 bytes received at 47622 bytes/sec], 2011854 bytes transferred using HTTP compression in 39 files, ratio 34%, 13.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
