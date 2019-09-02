@@ -2,85 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d674a167-3cba-40f5-8653-104a7e2a4def" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/blogs-page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/css/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/css/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/css/owl.theme.default.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/css/owl.video.play.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/css/style-preview.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/fonts/fontawesome-webfont3e6e.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/fonts/fontawesome-webfont3e6e.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/fonts/fontawesome-webfont3e6e.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/fonts/fontawesome-webfont3e6e.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/fonts/fontawesome-webfont3e6e.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/fonts/fontawesome-webfontd41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/about-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/background/creative2-banner-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/background/home-banner-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/background/stats-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/background/testimonials-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/blog/blog-big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/blog/comment-authors/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/blog/comment-authors/img-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/blog/comment-authors/img-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/blog/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/blog/img-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/blog/img-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/blog/img-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/blog/img-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/blog/img-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/portfolio/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/portfolio/img-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/portfolio/img-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/portfolio/img-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/portfolio/img-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/portfolio/img-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/promo/promo-blog-list.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/promo/promo-blog-single.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/promo/promo-creative1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/promo/promo-creative2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/promo/promo-creative3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/promo/promo-creative4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/promo/promo-main.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/promo/promo-particles1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/promo/promo-particles2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/promo/promo-slider.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/promo/promo-videobg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/slider/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/slider/img-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/images/testimonial/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index-creative1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index-creative2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index-creative3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index-creative4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index-main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index-particles1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index-particles2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index-particles3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index-particles4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index-ripples.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index-slider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index-videobg.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/js/animated.headline.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/js/isotope.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/js/jquery.magnific-popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/js/jquery.ripples-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/js/jquery.stellar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/js/jquery.superslides.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/js/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/js/particles.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/js/scrollIt.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/js/ultimate-bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalvin.netlify.com/single-blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marvelous/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,13 +37,14 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+            <state relative-caret-position="330">
+              <caret line="22" column="25" selection-start-line="22" selection-end-line="23" />
               <folding>
                 <element signature="e#5209#5217#0" expanded="true" />
+                <element signature="e#5845#5850#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,15 +56,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/marvelous/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/marvelous/index-main.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -157,8 +72,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/marvelous/index-main.html" />
+        <option value="$PROJECT_DIR$/marvelous/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -233,21 +149,22 @@
       <updated>1566922444154</updated>
       <workItem from="1566922702354" duration="1139000" />
       <workItem from="1566991112231" duration="3396000" />
-      <workItem from="1567430150577" duration="1173000" />
+      <workItem from="1567430150577" duration="3828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5708000" />
+    <option name="totallyTimeSpent" value="8363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1325" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25720966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -257,7 +174,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32956383" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -285,28 +202,8 @@
     <entry file="file://$PROJECT_DIR$/marvelous/images/FullSizeRender-29.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/marvelous/blogs-page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marvelous/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/marvelous/index-creative2.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-          <folding>
-            <element signature="e#5209#5217#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/marvelous/index-creative1.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -319,6 +216,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvelous/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marvelous/blogs-page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="25" selection-start-line="22" selection-end-line="23" />
+          <folding>
+            <element signature="e#5209#5217#0" expanded="true" />
+            <element signature="e#5845#5850#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
